@@ -1,0 +1,19 @@
+{
+  "name": "reto1_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reto1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albaCarranza/Reto1_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albaCarranza/Reto1_/issues"
+  },
+  "homepage": "https://github.com/albaCarranza/Reto1_#readme"
+}
