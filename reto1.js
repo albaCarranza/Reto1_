@@ -1,4 +1,4 @@
-const sum = (x, y) => x + y;
+
 
 const subs = (x, y) => x - y;
 
